@@ -62,3 +62,4 @@ Done when: [final state]
 
 - No em dashes in any generated copy, docs, or messages.
 - Plain, direct language over jargon. Spell out acronyms on first use.
+- Skip step-by-step narration of what's being done (e.g. "first I'll check X, then I'll update Y"). A brief framing sentence is fine, just get to the result without narrating the process.
